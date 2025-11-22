@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Caroline Uriarte**  
+# 👋 Hi, I'm **Caroline Alvarez**  
 GitHub: `carolineuriarte18-maker`
 
 </div>
