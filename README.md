@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner / Header Image -->
-<img src="https://raw.githubusercontent.com/carolineuriarte18-maker/carolineuriarte18-maker/main/abstract-technology-banner-background.jpg" alt="Banner" width="80%" />
+<img src="https://raw.githubusercontent.com/carolineuriarte18-maker/carolineuriarte18-maker/main/abstract-technology-banner-background.jpg" alt="Banner" length="60%" width="100%" />
 
 </div>
 
@@ -17,18 +17,15 @@ GitHub: `carolineuriarte18-maker`
 ## 💬 About Me
 
 <div align="center">
-
-Hello! I’m **Caroline Uriarte** — a software developer and machine learning enthusiast based in **Davao, Philippines**.  
-I’m passionate about building useful and creative projects, whether it's designing sleek UI components in **Flutter** or working on **ML models** for ecological classification.  
-In my free time, I enjoy exploring nature, photographing landscapes, and listening to lo-fi beats while coding.
-
+A SOFTWARE and WEB developer enthusiast based.  
+I’m passionate about building useful and creative projects, and designing UI.  
 </div>
 
 ---
 
 <div align="center">
 
-**Software Developer** & **Machine Learning Enthusiast**    
+**Software Developer** & **Web Developer** & **Machine Learning Enthusiast**   
 I build meaningful projects — from *Flutter UI components* to *frog species classification* — that combine design, code, and real-world impact.
 
 </div>
@@ -37,11 +34,10 @@ I build meaningful projects — from *Flutter UI components* to *frog species cl
 
 <div align="center">
 
- Crafting a reusable **Flutter UI Component Library** for clean, theme-friendly mobile UIs  
- Advancing my **bioacoustic / image-based ML research**, especially in frog classification  
- Deploying ML models on the edge using **TensorFlow Lite**  
- Learning more about **MLOps**, **CI/CD**, and scalable architecture  
-
+Building mobile apps with reusable, clean UI components to create intuitive and theme-friendly experiences
+Developing web applications using modern frameworks and best practices in architecture and design
+Applying machine learning to real-world problems: data preprocessing, model training, and deployment
+Optimizing ML models for deployment, including edge-device inference and efficient execution  
 </div>
 
 ---
@@ -53,11 +49,11 @@ I build meaningful projects — from *Flutter UI components* to *frog species cl
 | Domain | Technologies & Tools |
 |---|---|
 | **Programming** | Python · Dart (Flutter) · JavaScript · SQL |
-| **Machine Learning / AI** | TensorFlow · scikit-learn · NumPy · Pandas · Librosa |
+| **Machine Learning / AI** | TensorFlow |
 | **Mobile / UI** | Flutter · Custom Widgets · Theme Design |
 | **Backend / APIs** | Flask · REST APIs |
-| **DevOps / Deployment** | Git · GitHub · TensorFlow Lite · Docker |
-| **Data & Visualization** | Data Preprocessing · Feature Engineering · Matplotlib · Seaborn |
+| **DevOps / Deployment** | Git · GitHub · TensorFlow Lite|
+| **Data & Visualization** | Data Preprocessing · Feature Engineering |
 
 </div>
 
@@ -74,8 +70,8 @@ A full **ML pipeline** to classify frog species using audio or image data:
 
 ### 📱 Flutter Widget UI Components  
 A library of **reusable Flutter widgets** for building clean, consistent, and customizable UIs:  
-- Designed for theming, responsiveness, and modularity  
-- Explore the repo: **[Flutter_Widget_UIComponents](https://github.com/carolineuriarte18-maker/Flutter_Widget_UIComponents)**  
+ Designed for theming, responsiveness, and modularity  
+ Explore the repo: **[Flutter_Widget_UIComponents](https://github.com/carolineuriarte18-maker/Flutter_Widget_UIComponents)**  
 
 </div>
 
@@ -96,10 +92,10 @@ A library of **reusable Flutter widgets** for building clean, consistent, and cu
 
 <div align="center">
 
-- Deep dive into **advanced neural network architectures** like CNNs and Transformers  
-- Optimize ML models for **edge deployment** (mobile, Raspberry Pi, embedded systems)  
-- Gain mastery of **MLOps best practices**: dataset versioning, continuous training, monitoring  
-- Contribute more to **open-source**: UI libs, ML frameworks, community tools  
+ Deep dive into **advanced neural network architectures** like CNNs and Transformers  
+ Optimize ML models for **edge deployment** (mobile, Raspberry Pi, embedded systems)  
+ Gain mastery of **MLOps best practices**: dataset versioning, continuous training, monitoring  
+ Contribute more to **open-source**: UI libs, ML frameworks, community tools  
 
 </div>
 
@@ -110,14 +106,14 @@ A library of **reusable Flutter widgets** for building clean, consistent, and cu
 <div align="center">
 
 I’m open to:  
-- Open-source projects & contributions  
-- Research collaborations, hackathons, or mentorship  
-- Tech talks or joint dev initiatives  
+ Open-source projects & contributions  
+ Research collaborations, hackathons, or mentorship  
+ Tech talks or joint dev initiatives  
 
 **Reach Me:**  
-- LinkedIn: [Caroline Uriarte](https://www.linkedin.com/in/your-linkedin)  
-- Email: `your.email@example.com`  
-- Portfolio / Blog: [your-portfolio.com](https://your-portfolio.com)  
+ LinkedIn: [Caroline Uriarte](https://www.linkedin.com/in/your-linkedin)  
+ Email: `your.email@example.com`  
+ Portfolio / Blog: [your-portfolio.com](https://your-portfolio.com)  
 
 </div>
 
@@ -127,9 +123,9 @@ I’m open to:
 
 <div align="center">
 
-- 🐸 Frogs fascinate me — I built my frog classifier because of them  
-- 🎮 Avid gamer + nature photography lover = me in a nutshell  
-- 🎧 I often code to lo-fi beats or video game soundtracks  
+ 🐸 Frogs fascinate me — I built my frog classifier because of them  
+ 🎮 Avid gamer + nature photography lover = me in a nutshell  
+ 🎧 I often code to lo-fi beats or video game soundtracks  
 
 </div>
 
