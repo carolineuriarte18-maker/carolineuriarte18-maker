@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner / Header Image -->
-<img src="https://raw.githubusercontent.com/carolineuriarte18-maker/carolineuriarte18-maker/main/abstract-technology-banner-background.jpg" alt="Banner" length="60%" width="100%" />
+<img src="https://raw.githubusercontent.com/carolineuriarte18-maker/carolineuriarte18-maker/main/background.png" alt="Banner" length="60%" width="100%" />
 
 </div>
 
