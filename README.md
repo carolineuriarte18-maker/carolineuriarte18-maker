@@ -1,119 +1,155 @@
-<!-- Profile README for carolineuriarte18-maker -->
+<div align="center">
+
+<!-- Banner / Header Image -->
+<img src="https://raw.githubusercontent.com/carolineuriarte18-maker/carolineuriarte18-maker/main/header-image.png" alt="Banner" width="80%" />
+
+</div>
 
 <div align="center">
 
-<img width="90%" src="https://raw.githubusercontent.com/carolineuriarte18-maker/carolineuriarte18-maker/main/header-image.png" alt="Banner" />
+# 👋 Hi, I'm **Caroline Uriarte**  
+GitHub: `carolineuriarte18-maker`
 
 </div>
 
 ---
 
-# 👋 Hi, I’m **Caroline Uriarte**  
-_(GitHub handle: `carolineuriarte18-maker`)_  
+<div align="center">
 
-Passionate **Software Developer** and **Machine Learning Enthusiast** from the Philippines (Davao).  
-I build meaningful projects — from Flutter UI components to frog-species classifiers — that solve real-world problems and flex my creative + technical muscle.
+**Software Developer** & **Machine Learning Enthusiast**  
+Based in **Davao, Philippines**  
+I build meaningful projects — from *Flutter UI components* to *frog species classification* — that combine design, code, and real-world impact.
+
+</div>
 
 ---
 
-## 🎨 My Signature Palette  
-Here’s a vibe I like:  
+## 🎨 My Signature Palette
 
-- ![#000000](https://via.placeholder.com/15/000000/000000.png) `#000000` — **Black**  
-- ![#8B4513](https://via.placeholder.com/15/8B4513/8B4513.png) `#8B4513` — **SaddleBrown**  
-- ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) `#FFFFFF` — **White**
+<div align="center">
 
-This palette reflects sophistication (black), grounded energy (brown), and clarity (white) — which resonate in how I code and design.
+- <span style="background-color: #000000; color: #FFFFFF; padding: 2px 6px;">Black – `#000000`</span>  
+- <span style="background-color: #8B4513; color: #FFFFFF; padding: 2px 6px;">SaddleBrown – `#8B4513`</span>  
+- <span style="background-color: #FFFFFF; color: #000000; padding: 2px 6px;">White – `#FFFFFF`</span>
+
+</div>
+
+This palette reflects **sophistication (black)**, **grounded energy (brown)**, and **clarity (white)** — qualities I strive to carry into my projects and code.
 
 ---
 
 ## 🔭 What I’m Working On
 
-- Polishing **Flutter UI Component libraries** to speed up UI development  
-- Advancing my **bioacoustic / image-based ML research** — especially with frog species classification  
-- Deploying ML models to the edge using **TensorFlow Lite**  
-- Exploring **MLOps**, **CI/CD**, and clean architecture in my projects  
+<div align="center">
+
+- Crafting a reusable **Flutter UI Component Library** for clean, theme-friendly mobile UIs  
+- Advancing my **bioacoustic / image-based ML research**, especially in frog classification  
+- Deploying ML models on the edge using **TensorFlow Lite**  
+- Learning more about **MLOps**, **CI/CD**, and scalable architecture  
+
+</div>
 
 ---
 
 ## ⚙️ My Skills
 
-| Domain | Technologies |
+<div align="center">
+
+| Domain | Technologies & Tools |
 |---|---|
-| **Programming** | Python, Dart (Flutter), JavaScript, SQL |
-| **Machine Learning / AI** | TensorFlow, scikit-learn, NumPy, Pandas, Librosa |
-| **Mobile / UI** | Flutter, Widgets, Custom UI Components |
-| **Backend / APIs** | Flask, REST APIs |
-| **DevOps / Deployment** | Git, GitHub, TensorFlow Lite, Docker |
-| **Data & Visualization** | Data cleaning, Feature Engineering, Matplotlib, Seaborn |
+| **Programming** | Python · Dart (Flutter) · JavaScript · SQL |
+| **Machine Learning / AI** | TensorFlow · scikit-learn · NumPy · Pandas · Librosa |
+| **Mobile / UI** | Flutter · Custom Widgets · Theme Design |
+| **Backend / APIs** | Flask · REST APIs |
+| **DevOps / Deployment** | Git · GitHub · TensorFlow Lite · Docker |
+| **Data & Visualization** | Data Preprocessing · Feature Engineering · Matplotlib · Seaborn |
+
+</div>
 
 ---
 
-## 📚 Featured Projects
+## 💼 Featured Projects
 
-Here are two of my standout repositories:
+<div align="center">
 
 ### 🐸 Alvarez Frogs Classification  
-- A full ML pipeline for classifying frog species from audio or image data  
-- Includes: data preprocessing, model training, evaluation (confusion matrix, class-wise accuracy), and TFLite conversion  
-- Repo: [Alvarez_Frogs_Classification_FinalProject](https://github.com/carolineuriarte18-maker/Alvarez_Frogs_Classification_FinalProject)
+A full **ML pipeline** to classify frog species using audio or image data:  
+- Includes data preprocessing, feature extraction, model training, evaluation, and TFLite conversion  
+- Check out the repo: **[Alvarez_Frogs_Classification_FinalProject](https://github.com/carolineuriarte18-maker/Alvarez_Frogs_Classification_FinalProject)**  
 
 ### 📱 Flutter Widget UI Components  
-- A curated library of reusable UI components in Flutter  
-- Helps developers build clean, responsive, and theme-friendly mobile UIs faster  
-- Repo: [Flutter_Widget_UIComponents](https://github.com/carolineuriarte18-maker/Flutter_Widget_UIComponents)
+A library of **reusable Flutter widgets** for building clean, consistent, and customizable UIs:  
+- Designed for theming, responsiveness, and modularity  
+- Explore the repo: **[Flutter_Widget_UIComponents](https://github.com/carolineuriarte18-maker/Flutter_Widget_UIComponents)**  
+
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<!-- Generate these with: https://github.com/anuraghazra/github-readme-stats or similar -->
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolineuriarte18-maker&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolineuriarte18-maker&show_icons=true&theme=dark)
 
----
-
-## 📘 Learning Goals
-
-- Dive deeper into **advanced neural network architectures** (CNNs, Transformers)  
-- Master **edge deployment**: optimizing ML for mobile and embedded devices  
-- Learn **MLOps** best practices: versioning data, continuous training, monitoring  
-- Contribute to **open-source**: UI libraries, ML frameworks, or community tools  
+</div>
 
 ---
 
-## 🤝 Let’s Connect & Collaborate
+## 📚 Learning Goals
 
-I’m open to:
+<div align="center">
 
-- Open-source contributions & joint projects  
-- Mentorship or being mentored (especially in ML or Flutter)  
-- Research collaborations or hackathons  
-- Speaking / tech talks  
+- Deep dive into **advanced neural network architectures** like CNNs and Transformers  
+- Optimize ML models for **edge deployment** (mobile, Raspberry Pi, embedded systems)  
+- Gain mastery of **MLOps best practices**: dataset versioning, continuous training, monitoring  
+- Contribute more to **open-source**: UI libs, ML frameworks, community tools  
 
-**📫 Contact Me**  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+</div>
+
+---
+
+## 🤝 Let’s Collaborate
+
+<div align="center">
+
+I’m open to:  
+- Open-source projects & contributions  
+- Research collaborations, hackathons, or mentorship  
+- Tech talks or joint dev initiatives  
+
+**Reach Me:**  
+- LinkedIn: [Caroline Uriarte](https://www.linkedin.com/in/your-linkedin)  
 - Email: `your.email@example.com`  
-- Portfolio / Blog: [your-portfolio.com](https://your-portfolio.com)
+- Portfolio / Blog: [your-portfolio.com](https://your-portfolio.com)  
+
+</div>
 
 ---
 
-## ⚡ A Few Fun Facts
+## ⚡ Fun Facts
 
-- I have a thing for **frogs** — their calls inspired me to build the classification project 🐸  
-- I unwind by designing UI components in Flutter — it's both code and art  
-- Gamer + nature photography lover = me in a nutshell  
-- I often code to **lo-fi beats** or video game soundtracks
+<div align="center">
+
+- 🐸 Frogs fascinate me — I built my frog classifier because of them  
+- 🎮 Avid gamer + nature photography lover = me in a nutshell  
+- 🎧 I often code to lo-fi beats or video game soundtracks  
+
+</div>
 
 ---
 
 ## 📖 My Motto
 
-> “Build with purpose, learn with passion, and share what you create.”
+> “Build with purpose, learn with passion, and share what you create.”  
 
 ---
 
-Thanks for stopping by! Feel free to explore my repos — I hope something inspires you. 💬  
+<div align="center">
 
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carolineuriarte18-maker)](https://github.com/carolineuriarte18-maker)  
+Thanks for visiting my profile! Explore my repos, drop me a message — let’s build something great together. 💬  
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carolineuriarte18-maker)](https://github.com/carolineuriarte18-maker)
+
+</div>
