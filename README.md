@@ -14,38 +14,33 @@ GitHub: `carolineuriarte18-maker`
 
 ---
 
+## 💬 About Me
+
 <div align="center">
 
-**Software Developer** & **Machine Learning Enthusiast**  
-Based in **Davao, Philippines**  
+Hello! I’m **Caroline Uriarte** — a software developer and machine learning enthusiast based in **Davao, Philippines**.  
+I’m passionate about building useful and creative projects, whether it's designing sleek UI components in **Flutter** or working on **ML models** for ecological classification.  
+In my free time, I enjoy exploring nature, photographing landscapes, and listening to lo-fi beats while coding.
+
+</div>
+
+---
+
+<div align="center">
+
+**Software Developer** & **Machine Learning Enthusiast**    
 I build meaningful projects — from *Flutter UI components* to *frog species classification* — that combine design, code, and real-world impact.
 
 </div>
-
----
-
-## 🎨 My Signature Palette
-
-<div align="center">
-
-- <span style="background-color: #000000; color: #FFFFFF; padding: 2px 6px;">Black – `#000000`</span>  
-- <span style="background-color: #8B4513; color: #FFFFFF; padding: 2px 6px;">SaddleBrown – `#8B4513`</span>  
-- <span style="background-color: #FFFFFF; color: #000000; padding: 2px 6px;">White – `#FFFFFF`</span>
-
-</div>
-
-This palette reflects **sophistication (black)**, **grounded energy (brown)**, and **clarity (white)** — qualities I strive to carry into my projects and code.
-
----
 
 ## 🔭 What I’m Working On
 
 <div align="center">
 
-- Crafting a reusable **Flutter UI Component Library** for clean, theme-friendly mobile UIs  
-- Advancing my **bioacoustic / image-based ML research**, especially in frog classification  
-- Deploying ML models on the edge using **TensorFlow Lite**  
-- Learning more about **MLOps**, **CI/CD**, and scalable architecture  
+ Crafting a reusable **Flutter UI Component Library** for clean, theme-friendly mobile UIs  
+ Advancing my **bioacoustic / image-based ML research**, especially in frog classification  
+ Deploying ML models on the edge using **TensorFlow Lite**  
+ Learning more about **MLOps**, **CI/CD**, and scalable architecture  
 
 </div>
 
@@ -74,8 +69,8 @@ This palette reflects **sophistication (black)**, **grounded energy (brown)**, a
 
 ### 🐸 Alvarez Frogs Classification  
 A full **ML pipeline** to classify frog species using audio or image data:  
-- Includes data preprocessing, feature extraction, model training, evaluation, and TFLite conversion  
-- Check out the repo: **[Alvarez_Frogs_Classification_FinalProject](https://github.com/carolineuriarte18-maker/Alvarez_Frogs_Classification_FinalProject)**  
+ Includes data preprocessing, feature extraction, model training, evaluation, and TFLite conversion  
+ Check out the repo: **[Alvarez_Frogs_Classification_FinalProject](https://github.com/carolineuriarte18-maker/Alvarez_Frogs_Classification_FinalProject)**  
 
 ### 📱 Flutter Widget UI Components  
 A library of **reusable Flutter widgets** for building clean, consistent, and customizable UIs:  
