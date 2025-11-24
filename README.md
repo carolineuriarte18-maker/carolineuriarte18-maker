@@ -1,146 +1,24 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Caroline Alvarez</h1>
+<h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<!-- Banner / Header Image -->
-<img src="https://raw.githubusercontent.com/carolineuriarte18-maker/carolineuriarte18-maker/main/background.png" alt="Banner" length="60%" width="100%" />
+- 🔭 I’m currently working on [Frog Image Classifications](https://github.com/carolineuriarte18-maker/Alvarez_Frogs_Classification_FinalProject)
 
-</div>
+- 🌱 I’m currently learning **Machine Learning**
 
-<div align="center">
+- 👯 I’m looking to collaborate on **Dormitory Website System**
 
-# 👋 Hi, I'm **Caroline Alvarez**  
-GitHub: `carolineuriarte18-maker`
+- 📫 How to reach me **carolineuriarte18@gmail.com**
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/carolinealvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carolinealvarez" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## 💬 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolineuriarte18-maker&show_icons=true&locale=en&layout=compact" alt="carolineuriarte18-maker" /></p>
 
-<div align="center">
-A SOFTWARE and WEB developer enthusiast based.  
-I’m passionate about building useful and creative projects, and designing UI.  
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolineuriarte18-maker&show_icons=true&locale=en" alt="carolineuriarte18-maker" /></p>
 
----
 
-<div align="center">
-
-**Software Developer** & **Web Developer** & **Machine Learning Enthusiast**   
-I build meaningful projects — from *Flutter UI components* to *frog species classification* — that combine design, code, and real-world impact.
-
-</div>
-
-## 🔭 What I’m Working On
-
-<div align="center">
-
-Building mobile apps with reusable, clean UI components to create intuitive and theme-friendly experiences
-Developing web applications using modern frameworks and best practices in architecture and design
-Applying machine learning to real-world problems: data preprocessing, model training, and deployment
-Optimizing ML models for deployment, including edge-device inference and efficient execution  
-</div>
-
----
-
-## ⚙️ My Skills
-
-<div align="center">
-
-| Domain | Technologies & Tools |
-|---|---|
-| **Programming** | Python · Dart (Flutter) · JavaScript · SQL |
-| **Machine Learning / AI** | TensorFlow |
-| **Mobile / UI** | Flutter · Custom Widgets · Theme Design |
-| **Backend / APIs** | Flask · REST APIs |
-| **DevOps / Deployment** | Git · GitHub · TensorFlow Lite|
-| **Data & Visualization** | Data Preprocessing · Feature Engineering |
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🐸 Alvarez Frogs Classification  
-A full **ML pipeline** to classify frog species using audio or image data:  
- Includes data preprocessing, feature extraction, model training, evaluation, and TFLite conversion  
- Check out the repo: **[Alvarez_Frogs_Classification_FinalProject](https://github.com/carolineuriarte18-maker/Alvarez_Frogs_Classification_FinalProject)**  
-
-### 📱 Flutter Widget UI Components  
-A library of **reusable Flutter widgets** for building clean, consistent, and customizable UIs:  
- Designed for theming, responsiveness, and modularity  
- Explore the repo: **[Flutter_Widget_UIComponents](https://github.com/carolineuriarte18-maker/Flutter_Widget_UIComponents)**  
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolineuriarte18-maker&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolineuriarte18-maker&show_icons=true&theme=dark)
-
-</div>
-
----
-
-## 📚 Learning Goals
-
-<div align="center">
-
- Deep dive into **advanced neural network architectures** like CNNs and Transformers  
- Optimize ML models for **edge deployment** (mobile, Raspberry Pi, embedded systems)  
- Gain mastery of **MLOps best practices**: dataset versioning, continuous training, monitoring  
- Contribute more to **open-source**: UI libs, ML frameworks, community tools  
-
-</div>
-
----
-
-## 🤝 Let’s Collaborate
-
-<div align="center">
-
-I’m open to:  
- Open-source projects & contributions  
- Research collaborations, hackathons, or mentorship  
- Tech talks or joint dev initiatives  
-
-**Reach Me:**  
- LinkedIn: [Caroline Uriarte](https://www.linkedin.com/in/your-linkedin)  
- Email: `your.email@example.com`  
- Portfolio / Blog: [your-portfolio.com](https://your-portfolio.com)  
-
-</div>
-
----
-
-## ⚡ Fun Facts
-
-<div align="center">
-
- 🐸 Frogs fascinate me — I built my frog classifier because of them  
- 🎮 Avid gamer + nature photography lover = me in a nutshell  
- 🎧 I often code to lo-fi beats or video game soundtracks  
-
-</div>
-
----
-
-## 📖 My Motto
-
-> “Build with purpose, learn with passion, and share what you create.”  
-
----
-
-<div align="center">
-
-Thanks for visiting my profile! Explore my repos, drop me a message — let’s build something great together. 💬  
-
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carolineuriarte18-maker)](https://github.com/carolineuriarte18-maker)
-
-</div>
