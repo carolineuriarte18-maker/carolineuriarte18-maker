@@ -89,9 +89,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Facebook: carolinealvarez
-Instagram: _alvarezcaroline
-Telegram: caroline
+Facebook: carolinealvarez <br>
+Instagram: _alvarezcaroline <br>
+Telegram: caroline <br>
 Email: carolineuriarte18@gmail.com
 </p>
 
