@@ -79,13 +79,18 @@
 
 ###
 
-<p align="center">📖 My Motto<br> “Build with purpose, learn with passion, and share what you create.”</p>
+<p align="center"><br>📖 My Motto<br> “Build with purpose, learn with passion, and share what you create.”</p>
 
 ###
 
 <p align="center">Thanks for visiting my profile! Explore my repos, drop me a message — let’s build something great together. 💬</p>
 
 ###
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/carolinealvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carolinealvarez" height="30" width="40" /></a>
+</p>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
